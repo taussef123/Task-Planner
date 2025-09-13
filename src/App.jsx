@@ -27,7 +27,7 @@ function App(){
   value.id=Date.now() // to delete we generate a unique id
   value.createdAt=new Date()
   addTask(value)
-    console.log(value);
+  
    // console.log(tasks); // it will give what will u submit to add it we create addTask
    handleClose() // after submitting the form will close openly
     
