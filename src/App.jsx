@@ -59,7 +59,7 @@ const interval=  setInterval(()=>[
           </button>
           <h1 className=" lg:text-2xl font-bold ">anner </h1>
         </div>
-        <div className="flex  items-center lg:gap-4  gap-5">
+        <div className="flex  items-center gap-3  ">
           <h1 className=" text-xs 
           lg:text-2xl font-bold">{timer}</h1>
           <DatePicker className='!hidden lg-block'/>
